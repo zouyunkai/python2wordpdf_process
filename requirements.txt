@@ -1,0 +1,7 @@
+PyPDF2==2.12
+pandas
+pywin32
+reportlab
+
+
+# 那个python写的word2pdf可能不稳定，可以使用word2pdf_shell
